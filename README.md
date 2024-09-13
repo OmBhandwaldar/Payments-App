@@ -1,2 +1,3 @@
 # Payments-App
-A fully-featured payments application similar to Paytm.
+
+A cutting-edge application that simplifies payments, allowing you to seamlessly pay merchants and transfer money to other users.
